@@ -26,9 +26,7 @@
             <artifactId>javaparser-core</artifactId>
             <version>3.24.8</version>
         </dependency>
-    </dependencies>
-
-         
+    </dependencies>        
          
     <!-- This blob of configuration tells Maven to make the jar executable. You can run it with:
     mvn clean package
